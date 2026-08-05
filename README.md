@@ -1,6 +1,6 @@
 ### Hi there, I'm Ibrahim 👋
 
-I'm a Full Stack Software Engineer with 5+ years of experience building enterprise-grade, high-performance applications[cite: 1]. 
+I'm a Full Stack Software Engineer with 5+ years of experience building enterprise-grade, high-performance applications. 
 
 **🛠️ My Tech Stack:**
 *   **Languages:** Java, TypeScript, JavaScript, GraphQL, PHP, PL/SQL[cite: 1]
